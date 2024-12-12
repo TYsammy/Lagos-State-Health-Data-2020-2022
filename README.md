@@ -5,7 +5,7 @@ The report offers an insight into healthcare delivery, showcasing details like p
 
 ## Data Source
 
-This Data Was Obtained From a Health Analyst this data as 1 sheet
+This Data Was Obtained From a Health Analyst this data has 1 sheet
 
 ## Tools 
 
