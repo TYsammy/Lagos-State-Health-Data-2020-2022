@@ -32,3 +32,14 @@ v. insurance_provider by Patient
 vi. therapy_type by Patient
 
 
+## Result/ Findings
+
+i. distinct count of Patient id are: 1000 Patient.
+
+ii. diagnosis by Patient are: 20 Patient are diagnosis with Anxiety, 16 Patient are diagnosis with Depression, 15 Patient are diagnosis with Bipolar Disorder and 11 Patient are diagnosis with Schizophrenia.
+
+iii. Percentage of Patient by diagnosis are: 26.10% of Patient are diagnosis with Anxiety, 25.50% of Patient are diagnosis with Schizophrenia, 25.20% of Patient are 
+diagnosis with Depression and 23.20% of Patient are diagnosis with Bipolar Disorde
+
+
+
